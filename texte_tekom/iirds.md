@@ -19,7 +19,7 @@ Im Rahmen der Tagung wird die tekom nun ausführlich in Vorträgen, Tutorials un
 
 Mittwoch, 25. Oktober, 8:45 - 18:00 Uhr
 **iiRDS – Introduction and Status**
-Ralf Robers
+*Ralf Robers*
 
 Early last year tekom started its working group "Information 4.0" to elaborate concepts and standards 
 for technical communication in the context of "Internet of things" or "Industry 4.0". 
